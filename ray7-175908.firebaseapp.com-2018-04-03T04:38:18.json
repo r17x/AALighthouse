@@ -1,0 +1,1238 @@
+{
+  "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36",
+  "lighthouseVersion": "2.9.4",
+  "generatedTime": "2018-04-03T04:38:18.400Z",
+  "initialUrl": "https://ray7-175908.firebaseapp.com",
+  "url": "https://ray7-175908.firebaseapp.com/",
+  "runWarnings": [],
+  "audits": {
+    "first-meaningful-paint": {
+      "score": 39,
+      "displayValue": "4,590 ms",
+      "rawValue": 4590.3,
+      "extendedInfo": {
+        "value": {
+          "timestamps": {
+            "navStart": 14642387994,
+            "fCP": 14645517184,
+            "fMP": 14646978335,
+            "onLoad": 14646268301,
+            "endOfTrace": 14657918680
+          },
+          "timings": {
+            "navStart": 0,
+            "fCP": 3129.19,
+            "fMP": 4590.341,
+            "onLoad": 3880.307,
+            "endOfTrace": 15530.686
+          },
+          "fmpFellBack": false
+        }
+      },
+      "scoringMode": "numeric",
+      "name": "first-meaningful-paint",
+      "description": "First meaningful paint",
+      "helpText": "First meaningful paint measures when the primary content of a page is visible. [Learn more](https://developers.google.com/web/tools/lighthouse/audits/first-meaningful-paint)."
+    },
+    "speed-index-metric": {
+      "score": 51,
+      "displayValue": "5,382",
+      "rawValue": 5382,
+      "extendedInfo": {
+        "value": {
+          "timings": {
+            "firstVisualChange": 4590,
+            "visuallyReady": 7172.179999999702,
+            "visuallyComplete": 8478,
+            "perceptualSpeedIndex": 5382.058271223088
+          },
+          "timestamps": {
+            "firstVisualChange": 14646977994,
+            "visuallyReady": 14649560174,
+            "visuallyComplete": 14650865994,
+            "perceptualSpeedIndex": 14647770052.271225
+          },
+          "frames": [
+            {
+              "timestamp": 14642387.994,
+              "progress": 0
+            },
+            {
+              "timestamp": 14642389.426,
+              "progress": 0
+            },
+            {
+              "timestamp": 14642403.883,
+              "progress": 0
+            },
+            {
+              "timestamp": 14642420.969,
+              "progress": 0
+            },
+            {
+              "timestamp": 14642438.008,
+              "progress": 0
+            },
+            {
+              "timestamp": 14642456.339,
+              "progress": 0
+            },
+            {
+              "timestamp": 14642471.539,
+              "progress": 0
+            },
+            {
+              "timestamp": 14642486.867,
+              "progress": 0
+            },
+            {
+              "timestamp": 14642503.754,
+              "progress": 0
+            },
+            {
+              "timestamp": 14642521.29,
+              "progress": 0
+            },
+            {
+              "timestamp": 14642537.45,
+              "progress": 0
+            },
+            {
+              "timestamp": 14642553.642,
+              "progress": 0
+            },
+            {
+              "timestamp": 14642570.223,
+              "progress": 0
+            },
+            {
+              "timestamp": 14642587.12,
+              "progress": 0
+            },
+            {
+              "timestamp": 14642604.221,
+              "progress": 0
+            },
+            {
+              "timestamp": 14642621.391,
+              "progress": 0
+            },
+            {
+              "timestamp": 14642637.599,
+              "progress": 0
+            },
+            {
+              "timestamp": 14642654.595,
+              "progress": 0
+            },
+            {
+              "timestamp": 14642671.35,
+              "progress": 0
+            },
+            {
+              "timestamp": 14642687.515,
+              "progress": 0
+            },
+            {
+              "timestamp": 14642704.11,
+              "progress": 0
+            },
+            {
+              "timestamp": 14642721.303,
+              "progress": 0
+            },
+            {
+              "timestamp": 14642738.022,
+              "progress": 0
+            },
+            {
+              "timestamp": 14642754.531,
+              "progress": 0
+            },
+            {
+              "timestamp": 14642771.429,
+              "progress": 0
+            },
+            {
+              "timestamp": 14642788.173,
+              "progress": 0
+            },
+            {
+              "timestamp": 14642804.788,
+              "progress": 0
+            },
+            {
+              "timestamp": 14642821.301,
+              "progress": 0
+            },
+            {
+              "timestamp": 14642837.89,
+              "progress": 0
+            },
+            {
+              "timestamp": 14642855.644,
+              "progress": 0
+            },
+            {
+              "timestamp": 14642871.956,
+              "progress": 0
+            },
+            {
+              "timestamp": 14644096.055,
+              "progress": 0
+            },
+            {
+              "timestamp": 14644109.651,
+              "progress": 0
+            },
+            {
+              "timestamp": 14644126.632,
+              "progress": 0
+            },
+            {
+              "timestamp": 14644142.419,
+              "progress": 0
+            },
+            {
+              "timestamp": 14644159.887,
+              "progress": 0
+            },
+            {
+              "timestamp": 14644175.918,
+              "progress": 0
+            },
+            {
+              "timestamp": 14644194.592,
+              "progress": 0
+            },
+            {
+              "timestamp": 14644209.619,
+              "progress": 0
+            },
+            {
+              "timestamp": 14644226.32,
+              "progress": 0
+            },
+            {
+              "timestamp": 14644242.787,
+              "progress": 0
+            },
+            {
+              "timestamp": 14644260.542,
+              "progress": 0
+            },
+            {
+              "timestamp": 14644276.277,
+              "progress": 0
+            },
+            {
+              "timestamp": 14644293.887,
+              "progress": 0
+            },
+            {
+              "timestamp": 14644309.866,
+              "progress": 0
+            },
+            {
+              "timestamp": 14644326.363,
+              "progress": 0
+            },
+            {
+              "timestamp": 14644343.198,
+              "progress": 0
+            },
+            {
+              "timestamp": 14644361.406,
+              "progress": 0
+            },
+            {
+              "timestamp": 14644376.81,
+              "progress": 0
+            },
+            {
+              "timestamp": 14644393.423,
+              "progress": 0
+            },
+            {
+              "timestamp": 14644410.052,
+              "progress": 0
+            },
+            {
+              "timestamp": 14644427.34,
+              "progress": 0
+            },
+            {
+              "timestamp": 14644444.47,
+              "progress": 0
+            },
+            {
+              "timestamp": 14644460.102,
+              "progress": 0
+            },
+            {
+              "timestamp": 14644478.019,
+              "progress": 0
+            },
+            {
+              "timestamp": 14644493.712,
+              "progress": 0
+            },
+            {
+              "timestamp": 14644511.997,
+              "progress": 0
+            },
+            {
+              "timestamp": 14644528.107,
+              "progress": 0
+            },
+            {
+              "timestamp": 14644544.276,
+              "progress": 0
+            },
+            {
+              "timestamp": 14644560.642,
+              "progress": 0
+            },
+            {
+              "timestamp": 14644577.439,
+              "progress": 0
+            },
+            {
+              "timestamp": 14644594.012,
+              "progress": 0
+            },
+            {
+              "timestamp": 14644610.643,
+              "progress": 0
+            },
+            {
+              "timestamp": 14644627.666,
+              "progress": 0
+            },
+            {
+              "timestamp": 14644644.589,
+              "progress": 0
+            },
+            {
+              "timestamp": 14644662.358,
+              "progress": 0
+            },
+            {
+              "timestamp": 14644677.683,
+              "progress": 0
+            },
+            {
+              "timestamp": 14644694.699,
+              "progress": 0
+            },
+            {
+              "timestamp": 14644711.722,
+              "progress": 0
+            },
+            {
+              "timestamp": 14644727.715,
+              "progress": 0
+            },
+            {
+              "timestamp": 14644744.889,
+              "progress": 0
+            },
+            {
+              "timestamp": 14644761.279,
+              "progress": 0
+            },
+            {
+              "timestamp": 14644779.059,
+              "progress": 0
+            },
+            {
+              "timestamp": 14644795.299,
+              "progress": 0
+            },
+            {
+              "timestamp": 14644812.558,
+              "progress": 0
+            },
+            {
+              "timestamp": 14644828.987,
+              "progress": 0
+            },
+            {
+              "timestamp": 14644845.192,
+              "progress": 0
+            },
+            {
+              "timestamp": 14644862.473,
+              "progress": 0
+            },
+            {
+              "timestamp": 14644878.325,
+              "progress": 0
+            },
+            {
+              "timestamp": 14644895.814,
+              "progress": 0
+            },
+            {
+              "timestamp": 14645517.349,
+              "progress": 0
+            },
+            {
+              "timestamp": 14645535.184,
+              "progress": 0
+            },
+            {
+              "timestamp": 14645550.82,
+              "progress": 0
+            },
+            {
+              "timestamp": 14645569.081,
+              "progress": 0
+            },
+            {
+              "timestamp": 14645583.714,
+              "progress": 0
+            },
+            {
+              "timestamp": 14645601.984,
+              "progress": 0
+            },
+            {
+              "timestamp": 14645619.128,
+              "progress": 0
+            },
+            {
+              "timestamp": 14645635.121,
+              "progress": 0
+            },
+            {
+              "timestamp": 14645652.439,
+              "progress": 0
+            },
+            {
+              "timestamp": 14645670.088,
+              "progress": 0
+            },
+            {
+              "timestamp": 14645685.295,
+              "progress": 0
+            },
+            {
+              "timestamp": 14645704.509,
+              "progress": 0
+            },
+            {
+              "timestamp": 14645719.318,
+              "progress": 0
+            },
+            {
+              "timestamp": 14645732.78,
+              "progress": 0
+            },
+            {
+              "timestamp": 14645748.636,
+              "progress": 0
+            },
+            {
+              "timestamp": 14645766.121,
+              "progress": 0
+            },
+            {
+              "timestamp": 14645782.986,
+              "progress": 0
+            },
+            {
+              "timestamp": 14645799.536,
+              "progress": 0
+            },
+            {
+              "timestamp": 14645816.616,
+              "progress": 0
+            },
+            {
+              "timestamp": 14645832.401,
+              "progress": 0
+            },
+            {
+              "timestamp": 14645848.609,
+              "progress": 0
+            },
+            {
+              "timestamp": 14645869.893,
+              "progress": 0
+            },
+            {
+              "timestamp": 14645886.664,
+              "progress": 0
+            },
+            {
+              "timestamp": 14645908.192,
+              "progress": 0
+            },
+            {
+              "timestamp": 14645917.354,
+              "progress": 0
+            },
+            {
+              "timestamp": 14645932.958,
+              "progress": 0
+            },
+            {
+              "timestamp": 14645949.948,
+              "progress": 0
+            },
+            {
+              "timestamp": 14645966.335,
+              "progress": 0
+            },
+            {
+              "timestamp": 14645983.546,
+              "progress": 0
+            },
+            {
+              "timestamp": 14645999.456,
+              "progress": 0
+            },
+            {
+              "timestamp": 14646016.74,
+              "progress": 0
+            },
+            {
+              "timestamp": 14646034.089,
+              "progress": 0
+            },
+            {
+              "timestamp": 14646049.925,
+              "progress": 0
+            },
+            {
+              "timestamp": 14646066.356,
+              "progress": 0
+            },
+            {
+              "timestamp": 14646083.919,
+              "progress": 0
+            },
+            {
+              "timestamp": 14646100.879,
+              "progress": 0
+            },
+            {
+              "timestamp": 14646116.135,
+              "progress": 0
+            },
+            {
+              "timestamp": 14646133.741,
+              "progress": 0
+            },
+            {
+              "timestamp": 14646150.299,
+              "progress": 0
+            },
+            {
+              "timestamp": 14646166.815,
+              "progress": 0
+            },
+            {
+              "timestamp": 14646183.086,
+              "progress": 0
+            },
+            {
+              "timestamp": 14646230.471,
+              "progress": 0
+            },
+            {
+              "timestamp": 14646234.617,
+              "progress": 0
+            },
+            {
+              "timestamp": 14646280.688,
+              "progress": 0
+            },
+            {
+              "timestamp": 14646287.854,
+              "progress": 0
+            },
+            {
+              "timestamp": 14646319.777,
+              "progress": 0
+            },
+            {
+              "timestamp": 14646337.375,
+              "progress": 0
+            },
+            {
+              "timestamp": 14646351.192,
+              "progress": 0
+            },
+            {
+              "timestamp": 14646369.122,
+              "progress": 0
+            },
+            {
+              "timestamp": 14646386.255,
+              "progress": 0
+            },
+            {
+              "timestamp": 14646401.48,
+              "progress": 0
+            },
+            {
+              "timestamp": 14646418.63,
+              "progress": 0
+            },
+            {
+              "timestamp": 14646435.299,
+              "progress": 0
+            },
+            {
+              "timestamp": 14646456.622,
+              "progress": 0
+            },
+            {
+              "timestamp": 14646468.069,
+              "progress": 0
+            },
+            {
+              "timestamp": 14646485.152,
+              "progress": 0
+            },
+            {
+              "timestamp": 14646501.873,
+              "progress": 0
+            },
+            {
+              "timestamp": 14646518.544,
+              "progress": 0
+            },
+            {
+              "timestamp": 14646534.513,
+              "progress": 0
+            },
+            {
+              "timestamp": 14646551.956,
+              "progress": 0
+            },
+            {
+              "timestamp": 14646568.117,
+              "progress": 0
+            },
+            {
+              "timestamp": 14646585.302,
+              "progress": 0
+            },
+            {
+              "timestamp": 14646602.347,
+              "progress": 0
+            },
+            {
+              "timestamp": 14646618.405,
+              "progress": 0
+            },
+            {
+              "timestamp": 14646635.763,
+              "progress": 0
+            },
+            {
+              "timestamp": 14646652.622,
+              "progress": 0
+            },
+            {
+              "timestamp": 14646668.815,
+              "progress": 0
+            },
+            {
+              "timestamp": 14646685.665,
+              "progress": 0
+            },
+            {
+              "timestamp": 14646702.8,
+              "progress": 0
+            },
+            {
+              "timestamp": 14646748.41,
+              "progress": 0
+            },
+            {
+              "timestamp": 14646765.355,
+              "progress": 0
+            },
+            {
+              "timestamp": 14646781.753,
+              "progress": 0
+            },
+            {
+              "timestamp": 14646800.477,
+              "progress": 0
+            },
+            {
+              "timestamp": 14646815.136,
+              "progress": 0
+            },
+            {
+              "timestamp": 14646832.544,
+              "progress": 0
+            },
+            {
+              "timestamp": 14646848.621,
+              "progress": 0
+            },
+            {
+              "timestamp": 14646865.795,
+              "progress": 0
+            },
+            {
+              "timestamp": 14646882.193,
+              "progress": 0
+            },
+            {
+              "timestamp": 14646899.334,
+              "progress": 0
+            },
+            {
+              "timestamp": 14646915.799,
+              "progress": 0
+            },
+            {
+              "timestamp": 14646936.67,
+              "progress": 0
+            },
+            {
+              "timestamp": 14646965.844,
+              "progress": 0
+            },
+            {
+              "timestamp": 14646978.566,
+              "progress": 52.06750715177034
+            },
+            {
+              "timestamp": 14647013.863,
+              "progress": 52.06750715177034
+            },
+            {
+              "timestamp": 14647040.291,
+              "progress": 52.06750715177034
+            },
+            {
+              "timestamp": 14647055.975,
+              "progress": 50.47334214948539
+            },
+            {
+              "timestamp": 14647074.654,
+              "progress": 50.47334214948539
+            },
+            {
+              "timestamp": 14647089.971,
+              "progress": 50.47334214948539
+            },
+            {
+              "timestamp": 14647107.787,
+              "progress": 50.47334214948539
+            },
+            {
+              "timestamp": 14647149.908,
+              "progress": 50.47334214948539
+            },
+            {
+              "timestamp": 14647174.85,
+              "progress": 50.47334214948539
+            },
+            {
+              "timestamp": 14647187.969,
+              "progress": 50.47334214948539
+            },
+            {
+              "timestamp": 14647204.352,
+              "progress": 50.47334214948539
+            },
+            {
+              "timestamp": 14647220.486,
+              "progress": 52.35800279593063
+            },
+            {
+              "timestamp": 14647244.108,
+              "progress": 52.945549199799466
+            },
+            {
+              "timestamp": 14647281.462,
+              "progress": 63.96783550888925
+            },
+            {
+              "timestamp": 14647306.33,
+              "progress": 63.96783550888925
+            },
+            {
+              "timestamp": 14647322.816,
+              "progress": 66.77774555722789
+            },
+            {
+              "timestamp": 14647341.192,
+              "progress": 66.77774555722789
+            },
+            {
+              "timestamp": 14647354.279,
+              "progress": 66.77774555722789
+            },
+            {
+              "timestamp": 14647370.442,
+              "progress": 66.77774555722789
+            },
+            {
+              "timestamp": 14647387.925,
+              "progress": 66.96707727350154
+            },
+            {
+              "timestamp": 14647403.948,
+              "progress": 66.96707727350154
+            },
+            {
+              "timestamp": 14647437.331,
+              "progress": 66.96707727350154
+            },
+            {
+              "timestamp": 14647454.506,
+              "progress": 66.96707727350154
+            },
+            {
+              "timestamp": 14647470.796,
+              "progress": 66.96707727350154
+            },
+            {
+              "timestamp": 14647487.397,
+              "progress": 66.96707727350154
+            },
+            {
+              "timestamp": 14647504.333,
+              "progress": 66.96707727350154
+            },
+            {
+              "timestamp": 14647521.568,
+              "progress": 66.96707727350154
+            },
+            {
+              "timestamp": 14647537.793,
+              "progress": 66.96707727350154
+            },
+            {
+              "timestamp": 14647554.438,
+              "progress": 66.96707727350154
+            },
+            {
+              "timestamp": 14647571.64,
+              "progress": 66.96707727350154
+            },
+            {
+              "timestamp": 14647604.815,
+              "progress": 66.96707727350154
+            },
+            {
+              "timestamp": 14647621.65,
+              "progress": 66.96707727350154
+            },
+            {
+              "timestamp": 14647638.472,
+              "progress": 66.96707727350154
+            },
+            {
+              "timestamp": 14647654.574,
+              "progress": 66.96707727350154
+            },
+            {
+              "timestamp": 14647671.308,
+              "progress": 66.96707727350154
+            },
+            {
+              "timestamp": 14647690.984,
+              "progress": 66.96707727350154
+            },
+            {
+              "timestamp": 14647721.76,
+              "progress": 69.63006903267845
+            },
+            {
+              "timestamp": 14647738.855,
+              "progress": 69.63006903267845
+            },
+            {
+              "timestamp": 14647755.26,
+              "progress": 69.63006903267845
+            },
+            {
+              "timestamp": 14647771.85,
+              "progress": 69.63006903267845
+            },
+            {
+              "timestamp": 14647788.469,
+              "progress": 69.63006903267845
+            },
+            {
+              "timestamp": 14647805.65,
+              "progress": 69.63006903267845
+            },
+            {
+              "timestamp": 14647822.113,
+              "progress": 69.63006903267845
+            },
+            {
+              "timestamp": 14647838.755,
+              "progress": 69.63006903267845
+            },
+            {
+              "timestamp": 14647855.555,
+              "progress": 72.10542508964888
+            },
+            {
+              "timestamp": 14647872.609,
+              "progress": 72.10542508964888
+            },
+            {
+              "timestamp": 14647905.602,
+              "progress": 72.10542508964888
+            },
+            {
+              "timestamp": 14647922.178,
+              "progress": 72.10542508964888
+            },
+            {
+              "timestamp": 14647939.71,
+              "progress": 75.01141606657721
+            },
+            {
+              "timestamp": 14647955.61,
+              "progress": 75.01141606657721
+            },
+            {
+              "timestamp": 14647972.619,
+              "progress": 75.01141606657721
+            },
+            {
+              "timestamp": 14647989.165,
+              "progress": 75.01141606657721
+            },
+            {
+              "timestamp": 14648005.908,
+              "progress": 79.0482542373376
+            },
+            {
+              "timestamp": 14648022.586,
+              "progress": 79.0482542373376
+            },
+            {
+              "timestamp": 14648039.675,
+              "progress": 79.0482542373376
+            },
+            {
+              "timestamp": 14649513.724,
+              "progress": 79.0482542373376
+            },
+            {
+              "timestamp": 14649542.028,
+              "progress": 78.00755664855326
+            },
+            {
+              "timestamp": 14649560.174,
+              "progress": 85.5142482872891
+            },
+            {
+              "timestamp": 14649578.117,
+              "progress": 85.56956790785509
+            },
+            {
+              "timestamp": 14649595.001,
+              "progress": 85.66048126325812
+            },
+            {
+              "timestamp": 14649611.291,
+              "progress": 93.95502686664713
+            },
+            {
+              "timestamp": 14649845.609,
+              "progress": 93.95502686664713
+            },
+            {
+              "timestamp": 14649869.697,
+              "progress": 93.95502686664713
+            },
+            {
+              "timestamp": 14649879.772,
+              "progress": 93.95502686664713
+            },
+            {
+              "timestamp": 14649896.962,
+              "progress": 93.95502686664713
+            },
+            {
+              "timestamp": 14649912.758,
+              "progress": 93.95502686664713
+            },
+            {
+              "timestamp": 14649929.836,
+              "progress": 93.95502686664713
+            },
+            {
+              "timestamp": 14649946.664,
+              "progress": 93.95502686664713
+            },
+            {
+              "timestamp": 14650277.854,
+              "progress": 93.95502686664713
+            },
+            {
+              "timestamp": 14650297.229,
+              "progress": 91.73636142575556
+            },
+            {
+              "timestamp": 14650314.255,
+              "progress": 91.73636142575556
+            },
+            {
+              "timestamp": 14650330.563,
+              "progress": 91.73636142575556
+            },
+            {
+              "timestamp": 14650347.168,
+              "progress": 91.73636142575556
+            },
+            {
+              "timestamp": 14650364.689,
+              "progress": 91.73636142575556
+            },
+            {
+              "timestamp": 14650383.226,
+              "progress": 91.73636142575556
+            },
+            {
+              "timestamp": 14650397.287,
+              "progress": 91.73636142575556
+            },
+            {
+              "timestamp": 14650414.634,
+              "progress": 91.73636142575556
+            },
+            {
+              "timestamp": 14650431.455,
+              "progress": 91.73636142575556
+            },
+            {
+              "timestamp": 14650447.553,
+              "progress": 91.73636142575556
+            },
+            {
+              "timestamp": 14650464.224,
+              "progress": 91.73636142575556
+            },
+            {
+              "timestamp": 14650481.536,
+              "progress": 91.73636142575556
+            },
+            {
+              "timestamp": 14650498.431,
+              "progress": 91.73636142575556
+            },
+            {
+              "timestamp": 14650515.24,
+              "progress": 91.73636142575556
+            },
+            {
+              "timestamp": 14650531.536,
+              "progress": 91.73636142575556
+            },
+            {
+              "timestamp": 14650548.083,
+              "progress": 91.73636142575556
+            },
+            {
+              "timestamp": 14650565.348,
+              "progress": 91.73636142575556
+            },
+            {
+              "timestamp": 14650581.825,
+              "progress": 92.78203019210115
+            },
+            {
+              "timestamp": 14650598.705,
+              "progress": 92.78203019210115
+            },
+            {
+              "timestamp": 14650615.559,
+              "progress": 92.78203019210115
+            },
+            {
+              "timestamp": 14650632.062,
+              "progress": 92.78203019210115
+            },
+            {
+              "timestamp": 14650648.826,
+              "progress": 92.78203019210115
+            },
+            {
+              "timestamp": 14650665.25,
+              "progress": 92.78203019210115
+            },
+            {
+              "timestamp": 14650682.15,
+              "progress": 92.78203019210115
+            },
+            {
+              "timestamp": 14650698.87,
+              "progress": 92.78203019210115
+            },
+            {
+              "timestamp": 14650715.831,
+              "progress": 93.62315341909742
+            },
+            {
+              "timestamp": 14650732.312,
+              "progress": 93.62315341909742
+            },
+            {
+              "timestamp": 14650749.19,
+              "progress": 93.62315341909742
+            },
+            {
+              "timestamp": 14650765.636,
+              "progress": 93.62315341909742
+            },
+            {
+              "timestamp": 14650783.426,
+              "progress": 94.35824291444135
+            },
+            {
+              "timestamp": 14650799.267,
+              "progress": 94.35824291444135
+            },
+            {
+              "timestamp": 14650816.118,
+              "progress": 94.69777633583027
+            },
+            {
+              "timestamp": 14650832.51,
+              "progress": 94.72816334834283
+            },
+            {
+              "timestamp": 14650849.501,
+              "progress": 94.93432571061471
+            },
+            {
+              "timestamp": 14650866.015,
+              "progress": 100
+            }
+          ]
+        }
+      },
+      "scoringMode": "numeric",
+      "name": "speed-index-metric",
+      "description": "Perceptual Speed Index",
+      "helpText": "Speed Index shows how quickly the contents of a page are visibly populated. [Learn more](https://developers.google.com/web/tools/lighthouse/audits/speed-index)."
+    },
+    "estimated-input-latency": {
+      "score": 100,
+      "displayValue": "16 ms",
+      "rawValue": 16,
+      "extendedInfo": {
+        "value": [
+          {
+            "percentile": 0.5,
+            "time": 16
+          },
+          {
+            "percentile": 0.75,
+            "time": 16
+          },
+          {
+            "percentile": 0.9,
+            "time": 16
+          },
+          {
+            "percentile": 0.99,
+            "time": 19.78660254237267
+          },
+          {
+            "percentile": 1,
+            "time": 35.32299999998759
+          }
+        ]
+      },
+      "scoringMode": "numeric",
+      "name": "estimated-input-latency",
+      "description": "Estimated Input Latency",
+      "helpText": "The score above is an estimate of how long your app takes to respond to user input, in milliseconds. There is a 90% probability that a user encounters this amount of latency, or less. 10% of the time a user can expect additional latency. If your latency is higher than 50 ms, users may perceive your app as laggy. [Learn more](https://developers.google.com/web/tools/lighthouse/audits/estimated-input-latency)."
+    },
+    "first-interactive": {
+      "score": 84,
+      "displayValue": "4,590 ms",
+      "rawValue": 4590.341,
+      "extendedInfo": {
+        "value": {
+          "timeInMs": 4590.341,
+          "timestamp": 14646978335
+        }
+      },
+      "scoringMode": "numeric",
+      "name": "first-interactive",
+      "description": "First Interactive (beta)",
+      "helpText": "First Interactive marks the time at which the page is minimally interactive. [Learn more](https://developers.google.com/web/tools/lighthouse/audits/first-interactive)."
+    },
+    "consistently-interactive": {
+      "score": 84,
+      "displayValue": "4,590 ms",
+      "rawValue": 4590.341,
+      "extendedInfo": {
+        "value": {
+          "cpuQuietPeriod": {
+            "start": 14646925.123000002,
+            "end": 14657918.68
+          },
+          "networkQuietPeriod": {
+            "start": 14652913.853,
+            "end": 14657918.68
+          },
+          "cpuQuietPeriods": [
+            {
+              "start": 14646925.123000002,
+              "end": 14657918.68
+            }
+          ],
+          "networkQuietPeriods": [
+            {
+              "start": 14652913.853,
+              "end": 14657918.68
+            }
+          ],
+          "timestamp": 14646978335,
+          "timeInMs": 4590.341
+        }
+      },
+      "scoringMode": "numeric",
+      "name": "consistently-interactive",
+      "description": "Consistently Interactive (beta)",
+      "helpText": "Consistently Interactive marks the time at which the page is fully interactive. [Learn more](https://developers.google.com/web/tools/lighthouse/audits/consistently-interactive)."
+    }
+  },
+  "runtimeConfig": {
+    "environment": [
+      {
+        "name": "Device Emulation",
+        "enabled": true,
+        "description": "Nexus 5X"
+      },
+      {
+        "name": "Network Throttling",
+        "enabled": true,
+        "description": "562.5ms RTT, 1.4Mbps down, 0.7Mbps up"
+      },
+      {
+        "name": "CPU Throttling",
+        "enabled": true,
+        "description": "4x slowdown"
+      }
+    ],
+    "blockedUrlPatterns": [],
+    "extraHeaders": {}
+  },
+  "score": 0,
+  "reportCategories": [],
+  "timing": {
+    "total": 21626
+  }
+}

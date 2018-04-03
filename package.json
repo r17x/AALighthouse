@@ -1,0 +1,33 @@
+{
+  "name": "aalighthouse",
+  "version": "1.0.0",
+  "description": "Automation Audit Lighthouse",
+  "main": "Audit.js",
+  "scripts": {
+    "start": "node Audit.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ri7nz/AALighthouse.git"
+  },
+  "keywords": [
+    "WWWID",
+    "WWWIDCHALLENGE",
+    "audit",
+    "lighthouse",
+    "google-chrome",
+    "firefox",
+    "web-browser",
+    "web-developer"
+  ],
+  "author": "ri7nz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ri7nz/AALighthouse.git/issues"
+  },
+  "homepage": "https://github.com/ri7nz/AALighthouse.git#readme",
+  "dependencies": {
+    "chrome-launcher": "^0.10.2",
+    "lighthouse": "^2.9.4"
+  }
+}
