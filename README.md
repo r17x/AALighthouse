@@ -7,10 +7,24 @@
 ### Instalation
 ```sh
 $ git clone https://github.com/ri7nz/AALighthouse.git && cd AALighthouse
-$ npm install && npm start
-$ # default use chrome browser & wait till report files created
-$ # gotchat you have report data
+$ npm install
 ```
+### Basic Usage 
+#### Demo : https://asciinema.org/a/174088
+1. Example Url List config
+```js
+// example url list config
+// https://github.com/ri7nz/AALighthouse/blob/master/config.js#L27 
+...
+url : [
+    'https://yourwebsite0.domain/',
+    'https://yourwebsite1.domain/'
+]
+...
+```
+   
+2. npm start and wait until finish , if success JSON files created
+
 
 ### Todo 
 - [ ] Create Contribution Template   
