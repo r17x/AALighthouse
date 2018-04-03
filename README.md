@@ -20,6 +20,8 @@ url : [
     'https://yourwebsite1.domain/'
 ]
 ...
+# save it & run
+$ npm start
 ```
    
 2. npm start and wait until finish , if success JSON files created
