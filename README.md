@@ -23,7 +23,7 @@ url : [
 ```
    
 2. npm start and wait until finish , if success JSON files created
-
+3. Upload your test json https://googlechrome.github.io/lighthouse/viewer/
 
 ### Todo 
 - [ ] Create Contribution Template   
