@@ -1,5 +1,4 @@
-# AALighthouse
-## Automation Audit Lighthouse
+# AALighthouse | Automation Audit Lighthouse
 ### Feature List 
 - Multiple Website Audit
 - Auto Generate JSON Audit
