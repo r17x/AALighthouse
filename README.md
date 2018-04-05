@@ -1,5 +1,4 @@
-# AALighthouse
-## Automation Audit Lighthouse
+# AALighthouse | Automation Audit Lighthouse
 ### Feature List 
 - Multiple Website Audit
 - Auto Generate JSON Audit
@@ -21,10 +20,12 @@ url : [
     'https://yourwebsite1.domain/'
 ]
 ...
+# save it & run
+$ npm start
 ```
    
 2. npm start and wait until finish , if success JSON files created
-
+3. Upload your test json https://googlechrome.github.io/lighthouse/viewer/
 
 ### Todo 
 - [ ] Create Contribution Template   
@@ -35,5 +36,7 @@ url : [
 #### Motivation & Reference
 - [Lighthouse](https://github.com/GoogleChrome/lighthouse)
 - [Lighthouse Progamatically](https://github.com/GoogleChrome/lighthouse/tree/master/docs)
-- [Lighthouse Default Config](https://github.com/GoogleChrome/lighthouse/blob/master/lighthouse-core/config/default.js#L31)
+- [Lighthouse Default Config](https://github.com/GoogleChrome/lighthouse/blob/master/lighthouse-core/config/default-config.js#L71)
 - [Lighthouse Config](https://github.com/GoogleChrome/lighthouse/blob/master/docs/configuration.md)
+- [WWWIDPWA on Medium](https://medium.com/wwwid)
+- [WWWIDPWA on Telegram](https://web.telegram.org/#/im?p=@wwwid_pwa)
