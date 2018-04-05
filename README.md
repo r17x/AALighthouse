@@ -36,7 +36,7 @@ $ npm start
 #### Motivation & Reference
 - [Lighthouse](https://github.com/GoogleChrome/lighthouse)
 - [Lighthouse Progamatically](https://github.com/GoogleChrome/lighthouse/tree/master/docs)
-- [Lighthouse Default Config](https://github.com/GoogleChrome/lighthouse/blob/master/lighthouse-core/config/default.js#L31)
+- [Lighthouse Default Config](https://github.com/GoogleChrome/lighthouse/blob/master/lighthouse-core/config/default-config.js#L71)
 - [Lighthouse Config](https://github.com/GoogleChrome/lighthouse/blob/master/docs/configuration.md)
 - [WWWIDPWA on Medium](https://medium.com/wwwid)
 - [WWWIDPWA on Telegram](https://web.telegram.org/#/im?p=@wwwid_pwa)
